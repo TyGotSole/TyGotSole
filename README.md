@@ -5,6 +5,6 @@ Demeatress Gholston Demeatress10@gmail.com
 
 This is my github account for class
 
-My repositoriy is called TyGotSole.gitgub.io
+My repositoriy is called TyGotSole.github.io
 
 After downloading the desktop version of GitHub I clicked Clone repository from internet->TyGotSole->Clone repository
